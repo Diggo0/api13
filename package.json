@@ -8,6 +8,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
-  "type": "module"
+  "description": "banco de dados",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
 }
